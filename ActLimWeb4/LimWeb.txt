@@ -1,0 +1,55 @@
+
+<html>
+
+	<head>
+		<title> Personal Website</title>
+	</head>	
+			
+			
+	<body bgcolor = "443e3c">
+		<center>
+			<font color = "white" size = "10"">
+				<pre> [Home]    [About Me]    [Contact] </pre>
+			</font>
+		<Center>
+		
+		<hr width = "100%" size = "4" color = "f9f9f9">
+	
+		<center>
+			<img src = "selfielim.jpg" height = "250" width = "250" align = "center">
+			<font color = "white" face = "Times New Roman" size = "15">
+			<b> Hello! My name is John Sebastian Lim from BSIT 2 - 7</b>
+		</center>
+			
+		<hr width = "100%" size = "4" color = "f9f9f9">
+
+			<img src = "plv.jpg" height = "300" width = "600" align = "right">
+			<h6 align = "left">I am 20 years old from bignay, Valenzuela City</h6>
+			<h6 align = "left">Currently I'm in my 2nd Year studying Information Technology in Pamantasan ng Lungsod ng Valenzuela </h6>
+
+			
+		<hr width = "100%" size = "4" color = "f9f9f9">
+		
+			<img src = "images.jpg" height = "400" width = "400" align = "right">
+			<h2 align = "left"><b>Hobbies:</h2>
+			<ul type = "circle">
+				<li align = "left">Gaming 
+				<li align = "left">Reading
+				<li align = "left">Playing Basketball	
+				<li align = "left">Outing<br>
+			</ul>
+			
+		<hr width = "100%" size = "4" color = "f9f9f9">
+			<h2 align = "Left"><b>Contact Me:</h2>
+			<h3 align = "Left"> Phone Number: 0970 821 6194</h3>
+			<h3 align = "Left"> Email: johnsebastianlim@gmail.com</h3>
+			<h3 align = "Left"> Facebook: John Sebastian</h3>
+		
+		
+		
+			</font>
+		
+		
+	</body>
+
+</html>
