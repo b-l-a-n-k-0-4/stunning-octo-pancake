@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Care Bear Four</title>
+</head>
+<body>
+<h1>Care Bear Four</h1>
+<table border="1">
+  <tr>
+    <td><img src="https://i.imgur.com/g1K8J4c.png" alt="Lion Care Bear"></td>
+    <td><img src="https://i.imgur.com/3h4u4k7.png" alt="Good Luck Bear"></td>
+    <td><img src="https://i.imgur.com/rN9J65P.png" alt="Love-A-Lot Bear"></td>
+    <td><img src="https://i.imgur.com/h9pQh9J.png" alt="Cheer Bear"></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/zJ6Z45J.png" alt="Wish Bear"></td>
+    <td><img src="https://i.imgur.com/4R79bZ8.png" alt="Friend Bear"></td>
+    <td><img src="https://i.imgur.com/QhG9r7K.png" alt="Funshine Bear"></td>
+    <td><img src="https://i.imgur.com/NqF8O4W.png" alt="Grumpy Bear"></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/Q0l9x5X.png" alt="Bedtime Bear"></td>
+    <td><img src="https://i.imgur.com/y9gV52I.png" alt="Birthday Bear"></td>
+    <td><img src="https://i.imgur.com/z9Xq019.png" alt="Bright Heart Raccoon"></td>
+    <td><img src="https://i.imgur.com/j1V7V8a.png" alt="Dream Bear"></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/U1e1mCx.png" alt="Harmony Bear"></td>
+    <td><img src="https://i.imgur.com/N86zZ1C.png" alt="Tenderheart Bear"></td>
+ <td><img src="https://i.imgur.com/1g1Z1g1.png" alt="Share Bear"></td>
+    <td><img src="https://i.imgur.com/2h2H2h2.png" alt="True Heart Bear"></td>
+  </tr>
+</table>
+</body>
+</html>

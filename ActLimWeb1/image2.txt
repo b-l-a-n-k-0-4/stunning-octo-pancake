@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lim Activity</title>
+	</head>
+	<body>
+		<table style="text-align: center" border="3px solid" align="center" width="65%" bgcolor="lightgreen" cellspacing="10" cellpadding="10">
+			<caption><font face="times new roman" size="10px">Random Pictures</font></caption>
+			<tr>
+				<td colspan="4" rowspan="4" width="50%"><img src="image2.webp" width="100%"></td>
+				<td><a href="Images1.html"><img src="image1.webp" width="100%"></a></td>
+				<td><a href="Images2.HTML"><img src="image2.webp" width="100%"></a></td>
+				<td><a href="Images3.HTML"><img src="Image3.webp" width="100%"></a></td>
+				<td><a href="Images4.HTML"><img src="Image4.webp" width="100%"></a></td>
+			</tr>
+			<tr>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+				<td><a href="Image2.HTML"><img src="Image2.webp" width="100%"></a></td>
+			</tr>
+			<tr>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+			</tr>
+			<tr>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+				<td><a href="Images2.HTML"><img src="Image2.webp" width="100%"></a></td>
+			</tr>
+			
+		</table>
+		
+	</body>
+</html>
+

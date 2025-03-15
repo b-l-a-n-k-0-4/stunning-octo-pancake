@@ -1,0 +1,44 @@
+
+<head>
+<title>test</title>
+<body>
+<h1 align=center>Using table</h1>
+<table border="3px solid black" align=center color="blue">
+<caption>tableee</caption>
+<tr>
+	<th> table heading 1 </th>
+	<th> table heading 2 </th>
+	<th> table heading 3 </th>
+	<th> table heading 4 </th>
+	<th> table heading 5 </th>
+	</tr>
+	<tr>
+		<td> col 1, row 1 </td>
+		<td> col 2, row 2 </td>
+		<td> col 3, row 3 </td>
+		<td> col 4, row 4 </td>
+		<td> col 5, row 5 </td>
+		</tr>
+		
+		<table border="5px solid blue" align=center bgcolor="skyblue" text-color="white" bordercolor="red">
+<caption>tableee</caption>
+<tr>
+	<th> table heading 1 </th>
+	<th> table heading 2 </th>
+	<th> table heading 3 </th>
+	<th> table heading 4 </th>
+	<th> table heading 5 </th>
+	</tr>
+	<tr>
+		<td align=center> col 1, row 1 </td>
+		<td align=center> col 2, row 2 </td>
+		<td align=center> col 3, row 3 </td>
+		<td align=center> col 4, row 4 </td>
+		<td align=center> col 5, row 5 </td>
+		</tr>
+		
+		</table>
+	</body>
+</html>
+
+

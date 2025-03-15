@@ -1,0 +1,25 @@
+
+<html>
+	<head>
+		<title>Tiquia Activity 2</title>
+	</head>
+	<body bgcolor=#696969>
+		<font color=black face="Times New Roman" size="6">
+		
+		<hr width="100%" size=4 color=indigo align=center>
+		<hr width="100%" size=4 color=purple align=center>
+		<hr width="100%" size=4 color=violet align=center>
+		<marquee direction=down behavior=alternate><font align=middle size=12>
+		<h2>That Time I Got Reincarnated as a Slime</h2></font></marquee>
+		
+		<center><h1><a href="Lim1.html"><img src="LimImages/Image1.webp" height="400" width="300"></a>  <a href="Disciple2.html"><img src="images/Pic2.png" height="400" width="300"></a>  <a href="Disciple3.html"><img src="images/Pic3.png" height="400" width="300"></a>  <a href="Disciple4.html"><img src="images/Pic4.png" height="400" width="300"></a></h1></center>
+		
+		<center><h1><a href="Disciple5.html"><img src="images/Pic5.png" height="400" width="300"></a>  <a href="Disciple6.html"><img src="images/Pic6.png" height="400" width="300"></a>  <a href="Disciple7.html"><img src="images/Pic7.png" height="400" width="300"></a>  <a href="Disciple8.html"><img src="images/Pic8.png" height="400" width="300"></a></h1></center>
+
+		<center><h1><a href="Disciple9.html"><img src="images/Pic9.png" height="400" width="300"></a>  <a href="Disciple10.html"><img src="images/Pic10.png" height="400" width="300"></a>  <a href="Disciple11.html"><img src="images/Pic11.png" height="400" width="300"></a>  <a href="Disciple12.html"><img src="images/Pic12.png" height="400" width="300"></a></h1></center>
+		
+		<hr width="100%" size=4 color=indigo align=center>
+		<hr width="100%" size=4 color=purple align=center>
+		<hr width="100%" size=4 color=violet align=center>
+	</body>
+</html>

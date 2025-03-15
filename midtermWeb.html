@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midterm Web</title>
+    <link rel="stylesheet" href="midtermwebb.css">
+    <script src="midtermweb.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#hobbies">Hobbies</a></li>
+            <li><a href="#activities">Activities</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="baste.jpg" alt="Profile Picture" class="profile-pic">
+        <p>My name is John Sebastian C. Lim and This is my portfolio showcasing my interests and skills.</p>
+    </section>
+    <section id="hobbies">
+        <h2>Hobbies</h2>
+        <p>I enjoy various activities such as gaming, reading, basketball, and outings.</p>
+        <h3>Gaming</h3>
+        <div class="gallery gaming-gallery">
+            <img src="Daysgone.png" alt="Days Gone" class="clickable game-img" data-game="daysgone">
+            <img src="GtaV.png" alt="GTA V" class="clickable game-img" data-game="gtav">
+            <img src="Nba.png" alt="NBA 2K16" class="clickable game-img" data-game="nba">
+            <img src="Tekken.webp" alt="Tekken 8" class="clickable game-img" data-game="tekken">
+            <img src="Watchdogs.png" alt="Watch Dogs 2" class="clickable game-img" data-game="watchdogs">
+        </div>
+        <div id="game-info" class="game-info">
+            <h3 id="game-title"></h3>
+            <p id="game-description"></p>
+            <div id="game-images" class="game-images"></div>
+        </div>
+
+        <h3>Reading</h3>
+        <div class="gallery reading-gallery">
+            <img src="absolute.jpg" alt="Absolute Dominion" class="clickable read-img" data-read="absolute">
+            <img src="nano.webp" alt="Nano Machine" class="clickable read-img" data-read="nano">
+            <img src="legend.webp" alt="Legend of The Northern Blade" class="clickable read-img" data-read="legend">
+            <img src="gosu.webp" alt="Gosu" class="clickable read-img" data-read="gosu">
+            <img src="myst.webp" alt="Myst, Might, Mayhem" class="clickable read-img" data-read="myst">
+        </div>
+        <div id="read-info" class="read-info">
+            <h3 id="read-title"></h3>
+            <p id="read-description"></p>
+            <div id="read-images" class="read-images"></div>
+        </div>
+
+    </section>
+    <section id="activities">
+        <h2>Activities</h2>
+        <div class="activity-list">
+            <a href="ActLimWeb/LimActMain2.html" class="activity-item">Activity 1</a>
+            <a href="ActLimWeb1/LIMACTTmain.html" class="activity-item">Activity 2</a>
+            <a href="ActLimWeb2/LimmActt.html" class="activity-item">Activity 3</a>
+            <a href="ActLimWeb3/test1.html" class="activity-item">Activity 4</a>
+            <a href="ActLimWeb4/LimWeb1.html" class="activity-item">Activity 5</a>
+            <a href="activity6.html" class="activity-item">Activity 6</a>
+        </div>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>📞 Number: 0970 821 6194</p>
+        <p>✉️ Email: johnsebastianlim@gmail.com</p>
+        <p>🔗 Facebook: <a href="https://www.facebook.com/johnzlimz" target="_blank">John Sebastian</a></p>
+    </section>
+    <footer class="footer">
+        &copy; 2025 John Sebastian Lim. All rights reserved.
+    </footer>
+</body>
+</html>

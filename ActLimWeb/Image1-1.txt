@@ -1,0 +1,42 @@
+
+
+<html>
+	<head><title> Tempest</title></head>
+	<body bgcolor= Red>
+		<font color=black face="Times New Roman" size="6">
+		<hr width="100%" size=4 color=Black align=center>
+		<hr width="100%" size=4 color=Black align=center>
+		<hr width="100%" size=4 color=Black align=center>
+		<marquee direction=down behavior=alternate><font align=middle size=12>
+		<h2> Tempest</h2></font></marquee>
+		<center><h1><img src="LimImages/Image1.webp" height="1200" width="900"><h1></center>
+		
+		<font size=12>
+		<center><a href="LimActMain2.html">Back to Main</a></center></font>
+		
+		<hr width="100%" size=4 color=Black align=center>
+		<hr width="100%" size=4 color=Black align=center>
+		<hr width="100%" size=4 color=Black align=center>
+		
+  <center>
+    <p>
+      <a href="photo (12).html">Previous</a> | 
+      <a href="photo (1).html">1</a> | 
+      <a href="photo (2).html">2</a> | 
+      <a href="photo (3).html">3</a> | 
+      <a href="photo (4).html">4</a> | 
+      <a href="photo (5).html">5</a> | 
+      <a href="photo (6).html">6</a> | 
+      <a href="photo (7).html">7</a> | 
+      <a href="photo (8).html">8</a> | 
+      <a href="photo (9).html">9</a> | 
+      <a href="photo (10).html">10</a> | 
+      <a href="photo (11).html">11</a> | 
+      <a href="photo (12).html">12</a> | 
+      <a href="photo (2).html">Next</a>
+    </p>
+
+
+		<center><a href="#">Back to Top</a></center>
+	</body>
+</html>
